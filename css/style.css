@@ -3,3 +3,8 @@
       background-color: #C9FFE6;
       font-size: 150%;
  }
+ 
+  .myClass {
+      background-color: gray;
+      color: blue
+    }
