@@ -19,8 +19,11 @@
   
   html {
     background-color: red;
+    color: green;
   }
   
   div {
     border-width: 100px;
   }
+  
+  
