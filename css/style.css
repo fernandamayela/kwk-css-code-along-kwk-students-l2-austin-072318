@@ -18,7 +18,7 @@
   }
   
   html {
-    background-color: yellow;
+    background-color: #E3F7FA;
     color: green;
     text-shadow: 1px 3px white;
     text-align: center;
@@ -26,7 +26,7 @@
   
   div {
     border-style: inset;
-    border-color: yellow;
+    border-color: #E3F7FA;
   }
   
   
