@@ -20,7 +20,7 @@
   html {
     background-color: red;
     color: green;
-    text-shadow: 900px;
+    text-shadow: 9px 9px green;
   }
   
   div {
